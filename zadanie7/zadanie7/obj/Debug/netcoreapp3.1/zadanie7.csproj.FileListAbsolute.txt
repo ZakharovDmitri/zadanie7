@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\zadanie7\zadanie7\bin\Debug\netcoreapp3.1\zadanie7.exe
+C:\Users\user\source\repos\zadanie7\zadanie7\bin\Debug\netcoreapp3.1\zadanie7.deps.json
+C:\Users\user\source\repos\zadanie7\zadanie7\bin\Debug\netcoreapp3.1\zadanie7.runtimeconfig.json
+C:\Users\user\source\repos\zadanie7\zadanie7\bin\Debug\netcoreapp3.1\zadanie7.runtimeconfig.dev.json
+C:\Users\user\source\repos\zadanie7\zadanie7\bin\Debug\netcoreapp3.1\zadanie7.dll
+C:\Users\user\source\repos\zadanie7\zadanie7\bin\Debug\netcoreapp3.1\zadanie7.pdb
+C:\Users\user\source\repos\zadanie7\zadanie7\obj\Debug\netcoreapp3.1\zadanie7.csprojAssemblyReference.cache
+C:\Users\user\source\repos\zadanie7\zadanie7\obj\Debug\netcoreapp3.1\zadanie7.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\zadanie7\zadanie7\obj\Debug\netcoreapp3.1\zadanie7.AssemblyInfo.cs
+C:\Users\user\source\repos\zadanie7\zadanie7\obj\Debug\netcoreapp3.1\zadanie7.dll
+C:\Users\user\source\repos\zadanie7\zadanie7\obj\Debug\netcoreapp3.1\zadanie7.pdb
